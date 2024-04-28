@@ -5,12 +5,18 @@
 **In this project we'll be doing vector arithmetic our own words and then we will perform VADER sentiment analysis on your own review as positive, negative, neutral or compound in Natural Language Processing.** <br></br>
 
 
-**Before jumping to the code lets understand Linear SVC(Model) and NLP(Natural Language Processing) First**...<br></br>
+**Before jumping to the code lets understand VADER, Sentiment Analysis and NLP(Natural Language Processing) First**...<br></br>
 
 **What is Sentiment Analysis?** <br></br>
 
 Sentiment analysis in NLP (Natural Language Processing) refers to the process of determining the sentiment or emotional tone expressed in a piece of text. 
 This analysis typically involves classifying the text as positive, negative, or neutral, although more nuanced approaches may involve sentiment scores ranging from very positive to very negative.<br></br>
+
+
+**What is VADER?** <br></br>
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a pre-trained model for sentiment analysis that is included in the NLTK (Natural Language Toolkit) library. It is specifically designed to analyze sentiment in social media texts, taking into account the nuances of informal language, slang, and emoticons commonly found in such texts.<br></br>
+
+
 
 
 **What is (NLP)Natural Language Processing**?<br></br>
