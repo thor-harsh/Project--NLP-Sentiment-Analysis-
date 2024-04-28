@@ -5,7 +5,11 @@
 **In this project we'll be doing vector arithmetic our own words and then we will perform VADER sentiment analysis on your own review as positive, negative, neutral or compound in Natural Language Processing.** <br></br>
 
 
-**Before jumping to the code lets understand VADER, Sentiment Analysis and NLP(Natural Language Processing) First**...<br></br>
+**Before jumping to the code lets understand Cosine Similarity, Sentiment Analysis, VADER, and NLP(Natural Language Processing) First**...<br></br>
+
+**What is Cosine Similarity?** <br></br>
+
+In the context of natural language processing (NLP), cosine similarity is often used to determine the similarity between two text documents represented as vectors in a high-dimensional space, where each dimension corresponds to a term (word) and the value represents the frequency of that term in the document.<br></br>
 
 **What is Sentiment Analysis?** <br></br>
 
