@@ -17,8 +17,6 @@ This analysis typically involves classifying the text as positive, negative, or 
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a pre-trained model for sentiment analysis that is included in the NLTK (Natural Language Toolkit) library. It is specifically designed to analyze sentiment in social media texts, taking into account the nuances of informal language, slang, and emoticons commonly found in such texts.<br></br>
 
 
-
-
 **What is (NLP)Natural Language Processing**?<br></br>
 
 NLP or Natural language processing is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate human language.<br></br>
@@ -28,7 +26,7 @@ NLP combines computational linguistics—rule-based modeling of human language�
 NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
 
-**Important Note: Go through the .tsv file which contains the huge list of movie reviews with label (i.e pos vs neg) before jumping to the code.**
+**Important Note: Go through the documentation for VADER and how it works with NLTK and how vector arithmetic operation happens with the help of cosine similarity before jumping to the code.**
 
 
 </table>
