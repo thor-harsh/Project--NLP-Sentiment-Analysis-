@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be making a Linear SVC(Support Vector Classifier) model for predicting a movie review as a positive review or negative review in Natural Language Processing. It's Part 2 of previous project on this.** <br></br>
+**In this project we'll be doing vector arithmetic our own words and then we will perform VADER sentiment analysis on your own review as positive, negative, neutral or compound in Natural Language Processing.** <br></br>
 
 
 **Before jumping to the code lets understand Linear SVC(Model) and NLP(Natural Language Processing) First**...<br></br>
